@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormatCSVdlaFarmaprom", "FormatCSVdlaFarmaprom\FormatCSVdlaFarmaprom.csproj", "{83FCB275-6A9D-495C-9101-188744E04BE2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83FCB275-6A9D-495C-9101-188744E04BE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83FCB275-6A9D-495C-9101-188744E04BE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83FCB275-6A9D-495C-9101-188744E04BE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83FCB275-6A9D-495C-9101-188744E04BE2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51B9F9B6-7E04-4960-BBC9-3F756B02F8E6}
+	EndGlobalSection
+EndGlobal
